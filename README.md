@@ -1,4 +1,4 @@
-# Shuraksha-Bot
+# Shuraksha
 **Team Name:–** *half-a-byte*<br/>
 **Team Members:**
   - Prithiraj Nandan
